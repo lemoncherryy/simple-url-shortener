@@ -1,0 +1,10 @@
+{
+    "host": "localhost",
+    "port": 39390,
+    "failure_url": "about:blank",
+    "links":
+    {
+        "test": "https://example.com",
+        "death": "https://en.wikipedia.org/wiki/Death"
+    }
+}
